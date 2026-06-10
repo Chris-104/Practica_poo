@@ -47,5 +47,6 @@ public class Alimento extends Producto {
         System.out.println("Peso: " + pesoGramos + " g");
         System.out.println("Calorias: " + calorias + " kcal");
         mostrarAlmacenamiento();
+        
     }
 }
